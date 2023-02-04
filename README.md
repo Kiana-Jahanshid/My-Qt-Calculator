@@ -1,5 +1,5 @@
 # My-Qt-Calculator ➕ ➖ ✖️ ➗ 🧮 
-## A Responsive GUI Calculator made with Qt
+## A Responsive GUI Calculator , has been made with Qt
 
 in this version of calculator , i've used from "partial" function . 
 
